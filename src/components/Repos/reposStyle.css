@@ -1,0 +1,17 @@
+.input {
+    width: 20%;
+    border-radius: 5px;
+    text-align: center;
+    border-color: black;
+}
+
+.lista{
+    padding: 10px;
+    box-shadow: 0 20px 20px rgba(0,0,0,.2);
+    border-radius: 10px;
+    background-color: #d63031;
+}
+
+.nome-repo{
+    font: 15px Quicksand;
+}

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Quicksand:wght@300;400;500&display=swap');
+
+.titulo {
+    font: 20px Quicksand;
+}
+
+.subtitulo {
+    font: 18px Quicksand;
+}
+
+.autora {
+    color: black;
+    font: 10px Quicksand;
+}
